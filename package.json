@@ -16,6 +16,8 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "apollo-server-express": "^3.11.1",
+    "graphql": "^16.6.0",
     "react-router-dom": "^6.4.4"
   }
 }
